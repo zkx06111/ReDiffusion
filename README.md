@@ -8,6 +8,7 @@ The code for the ICML 2023 paper [ReDi: Efficient Learning-Free Diffusion Infere
 ```
 git clone https://github.com/huggingface/diffusers.git
 cd diffusers
+git checkout 25f1142
 pip install -e .
 ```
 
